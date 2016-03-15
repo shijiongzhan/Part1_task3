@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding:0;
+  font-size: 14px;
+  font-family: Arial;
+}
+.content{
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	overflow: auto;
+	position: relative;
+}
+.teamName{
+	width: 200px;
+	padding: 20px;
+	border:1px solid #999;
+	float: left;
+}
+.teamName span{
+	font-size: 20px;
+	float: right;
+	margin-top: 20px;
+}
+.teamIntroduction{
+	padding: 20px;
+	border:1px solid #999;
+	margin-left: 262px;
+	margin-right: 182px;
+
+}
+.personLogo{
+	width:120px;
+	padding: 20px;
+	border:1px solid #999;
+	float: right;
+}
+img{
+	float: left;
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+}
